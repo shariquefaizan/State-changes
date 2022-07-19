@@ -1,0 +1,26 @@
+.buttons{
+    width: 100px;
+    height:30px;
+    color: rgb(0, 0, 0);
+    background-color:#ec3d39;    border-radius: 5px;
+
+}
+
+.buttonsplus{
+    width: 100px;
+    height:30px;
+    color: rgb(0, 0, 0);
+    background-color:#3498Db;
+    border-radius: 5px;
+
+}
+
+
+
+.buttonspluss{
+    width: 200px;
+    height:30px;
+    color: rgb(0, 0, 0);
+    background-color:#3498Db;    border-radius: 5px;
+
+}
